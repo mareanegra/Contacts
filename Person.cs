@@ -8,5 +8,9 @@ namespace Contacts.Person{
 			get;
 			set;
 		}
+		public string SSN{
+			get;
+			set;
+		}
 	}
 }
