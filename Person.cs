@@ -4,5 +4,9 @@ namespace Contacts.Person{
 			get;
 			set;
 		}
+		public double Age{
+			get;
+			set;
+		}
 	}
 }
